@@ -1,0 +1,12 @@
+{
+"companyName": "m6c7l",
+"productName": "yase",
+"dataUrl": "yase.data.unityweb",
+"asmCodeUrl": "yase.asm.code.unityweb",
+"asmMemoryUrl": "yase.asm.memory.unityweb",
+"asmFrameworkUrl": "yase.asm.framework.unityweb",
+"TOTAL_MEMORY": 134217728,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36",
+"cacheControl": {"dataUrl": "must-revalidate"}
+}

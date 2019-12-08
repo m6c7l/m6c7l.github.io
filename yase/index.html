@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <title>yase</title>
+    <style>
+      body { margin: 0; }
+      #gameContainer { width: 100vw; height: 100vh; }
+      canvas { width: 98%; height: 98%; margin: 0; position: absolute; top: 50%; left: 50%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); }
+    </style>
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+    var gameInstance = UnityLoader.instantiate("gameContainer", "Build/yase.json");
+    </script>
+  </head>
+  <body>
+    <div id="gameContainer"></div>
+  </body>
+</html>

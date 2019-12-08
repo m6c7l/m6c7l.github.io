@@ -108,6 +108,7 @@ function startMessages() {
 
 messages = [
 	'time actually is going slower right now.',
+	'wanna play? check out <a href="https://m6c7l.github.io/yase/">yase</a> and try to get more than 1500 points!',
 	'there may be more information about me <a href="https://cosa.th-luebeck.de/en/users/constapel">here</a>.',
 	'go check out what\'s new at <a href="https://www.thingiverse.com/whoopsie/designs">thingiverse</a>.',
 	'imagination is more important than knowledge. - albert einstein',
